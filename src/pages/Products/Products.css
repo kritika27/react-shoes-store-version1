@@ -1,0 +1,21 @@
+.prodlist{
+    display:flex;
+    flex-wrap: wrap;
+    width:90vw;
+    margin:0 auto;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.prod{
+    margin:25px;
+    height:430px;
+    width:320px;
+    color:#444;
+    background:#fff;
+}
+.prod>img{
+    width:320px;
+    height:380px;
+}
